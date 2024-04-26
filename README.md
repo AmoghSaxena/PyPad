@@ -16,7 +16,7 @@ To run PyPad, you need to have Python installed on your system. If you don't hav
 
 ## Usage
 
-To use PyPad, simply clone the repository or download the `PyPad.py` file to your local machine. Navigate to the directory containing `PyPad.py` and run the following command:
+To use PyPad, simply clone the repository or download the `PyPad.exe` file to your local machine. Navigate to the directory `./release/PyPad.exe` or if you want to use python file (`PyPad.py`) and run the following command:
 
 ```bash
 python PyPad.py
