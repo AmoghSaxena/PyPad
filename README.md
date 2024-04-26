@@ -20,6 +20,7 @@ To use PyPad, simply clone the repository or download the `PyPad.exe` file to yo
 
 ```bash
 python PyPad.py
+```
 
 # How to Contribute
 
